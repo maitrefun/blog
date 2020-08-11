@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+title: Maitre.fun blog
+author: maitrefun
+email: maitre.fun@yandex.com
+description: > # this means to ignore newlines until "baseurl:"
+  My github-pages blog
+
+# social links
+github_username:  maitrefun.github.io # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
